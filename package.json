@@ -1,0 +1,9 @@
+{
+  "name": "Coroutines",
+  "version": "1.0.0",
+  "description": "Analog of lodash's flow that works with functions that return Promises. ",
+  "main": "index.js",
+  "repository": "https://github.com/Snowy27/Coroutines",
+  "author": "Snowy27",
+  "license": "MIT"
+}
