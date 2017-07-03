@@ -1,0 +1,29 @@
+{
+    "eqnull": true,
+    "nonew": true,
+    "curly": true,
+    "unused": "vars",
+    "noarg": true,
+    "indent": 2,
+    "forin": true,
+    "noempty": true,
+    "quotmark": "single",
+    "node": true,
+    "eqeqeq": true,
+    "undef": true,
+    "bitwise": true,
+    "newcap": true,
+    "immed": true,
+    "nonbsp": true,
+    "freeze": true,
+    "esversion": 6,
+    "predef": [
+        "test",
+        "expect",
+        "describe",
+        "before",
+        "beforeAll",
+        "after",
+        "afterAll"
+    ]
+}

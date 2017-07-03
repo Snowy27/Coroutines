@@ -5,5 +5,11 @@
   "main": "index.js",
   "repository": "https://github.com/Snowy27/Coroutines",
   "author": "Snowy27",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^20.0.4"
+  },
+  "scripts": {
+    "test": "jest"
+  }
 }
